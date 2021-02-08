@@ -1,4 +1,4 @@
-# FA Online Shop
+# [FA Online Shop](http://faaos.herokuapp.com)
 
 [view project](http://faaos.herokuapp.com)
 
@@ -12,5 +12,5 @@
 
 **Credit**
 
-- help from 'JustDjango'
-- templates from 'MDBootstrap'
+- help from '[JustDjango](https://www.youtube.com/channel/UCRM1gWNTDx0SHIqUJygD-kQ)'
+- templates from '[MDBootstrap](https://mdbootstrap.com/)'
